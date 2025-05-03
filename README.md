@@ -1,7 +1,7 @@
 <h1 style="text-align: center; font-size: 2.5em; color: #007BFF;">Emmanuel Vega</h1>
 <p style="text-align: center; font-size: 1.2em; color: #666;">
   <strong>Fullstack JavaScript Engineer</strong><br>
-  Focused on Web Development with React and Node.js
+  Focused on Web and Mobile Development with React and Node.js
 </p>
 
 <hr>
